@@ -1,0 +1,31 @@
+body {
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    font-family: Verdana;
+}
+
+h1 {
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.bodyTitle{
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#textLink {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.pageText {
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    text-align: right;
+}
